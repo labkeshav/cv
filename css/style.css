@@ -133,3 +133,7 @@ a:hover{
   font-size: 0.75rem;
   padding:20px 0;
 }
+.mountain{
+  max-wodth:100%;
+  height: auto;
+}
